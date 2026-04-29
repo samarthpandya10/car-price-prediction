@@ -1,0 +1,132 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+ritz,2014,3.35,5.59,27000,Petrol,Dealer,Manual,0
+sx4,2013,4.75,9.54,43000,Diesel,Dealer,Manual,0
+ciaz,2017,7.25,9.85,6900,Petrol,Dealer,Manual,0
+wagon r,2011,2.85,4.15,5200,Petrol,Dealer,Manual,0
+swift,2014,4.6,6.87,42450,Diesel,Dealer,Manual,0
+vitara brezza,2018,9.25,9.83,2071,Diesel,Dealer,Manual,0
+ciaz,2015,6.75,8.12,18796,Petrol,Dealer,Manual,0
+s cross,2015,6.5,8.61,33429,Diesel,Dealer,Manual,0
+ciaz,2016,8.75,8.89,20273,Diesel,Dealer,Manual,0
+ciaz,2015,7.45,8.92,42367,Diesel,Dealer,Manual,0
+alto 800,2017,2.85,3.6,2135,Petrol,Dealer,Manual,0
+Hyundai Venue,2022,10,12,15000,Petrol,Dealer,Manual,0
+Kia Sonet,2021,10,12.5,12000,Diesel,Dealer,Manual,0
+Maruti Brezza,2023,10,13,8000,Petrol,Dealer,Automatic,0
+Tata Nexon,2022,10,12.8,10000,Diesel,Dealer,Manual,0
+Mahindra XUV300,2021,10,12.2,18000,Petrol,Dealer,Manual,0
+Honda Amaze,2023,10,13.1,7000,Petrol,Dealer,Automatic,0
+Hyundai i20,2022,10,12.6,9000,Diesel,Dealer,Manual,0
+Maruti Baleno,2021,10,12.4,16000,Petrol,Dealer,Manual,0
+Toyota Glanza,2023,10,13.3,6000,Diesel,Dealer,Automatic,0
+Renault Kiger,2022,10,12.9,11000,Petrol,Dealer,Manual,0
+Hyundai Creta,2023,20,24,8000,Diesel,Dealer,Automatic,0
+Kia Seltos,2022,20,23.5,10000,Petrol,Dealer,Automatic,0
+MG Hector,2021,20,22.8,15000,Diesel,Dealer,Manual,0
+Tata Harrier,2023,20,24.5,6000,Petrol,Dealer,Automatic,0
+Mahindra XUV700,2022,20,23.2,12000,Diesel,Dealer,Manual,0
+Toyota Hyryder,2021,20,22.9,17000,Petrol,Dealer,Manual,0
+Skoda Kushaq,2023,20,24.1,7000,Diesel,Dealer,Automatic,0
+VW Taigun,2022,20,23.6,11000,Petrol,Dealer,Automatic,0
+Honda City Hybrid,2021,20,22.7,18000,Diesel,Dealer,Manual,0
+Maruti Grand Vitara,2023,20,24.3,6500,Petrol,Dealer,Automatic,0
+Toyota Fortuner,2023,30,36,5000,Diesel,Dealer,Automatic,0
+Jeep Compass,2022,30,35,9000,Petrol,Dealer,Automatic,0
+Hyundai Tucson,2021,30,34.5,14000,Diesel,Dealer,Manual,0
+Skoda Kodiaq,2023,30,36.2,4500,Petrol,Dealer,Automatic,0
+VW Tiguan,2022,30,35.4,8000,Diesel,Dealer,Manual,0
+Citroen C5 Aircross,2021,30,34.8,15000,Petrol,Dealer,Manual,0
+MG Gloster,2023,30,36.5,4000,Diesel,Dealer,Automatic,0
+Toyota Innova Hycross,2022,30,35.1,8500,Petrol,Dealer,Automatic,0
+BYD Atto 3,2021,30,34.6,16000,Diesel,Dealer,Manual,0
+Mini Cooper,2023,30,36.3,4800,Petrol,Dealer,Automatic,0
+BMW 2 Series,2023,40,48,4000,Diesel,Dealer,Automatic,0
+Audi A4,2022,40,47,7000,Petrol,Dealer,Automatic,0
+Mercedes A-Class,2021,40,46.5,12000,Diesel,Dealer,Manual,0
+Volvo XC40,2023,40,48.5,3500,Petrol,Dealer,Automatic,0
+BMW X1,2022,40,47.2,7500,Diesel,Dealer,Manual,0
+Audi Q3,2021,40,46.9,13000,Petrol,Dealer,Manual,0
+Mercedes GLA,2023,40,48.3,3200,Diesel,Dealer,Automatic,0
+Lexus UX,2022,40,47.5,6800,Petrol,Dealer,Automatic,0
+Mini Countryman,2021,40,46.7,14000,Diesel,Dealer,Manual,0
+Jaguar XE,2023,40,48.1,3600,Petrol,Dealer,Automatic,0
+BMW 3 Series,2023,50,60,3000,Diesel,Dealer,Automatic,0
+Audi A6,2022,50,59,6000,Petrol,Dealer,Automatic,0
+Mercedes C-Class,2021,50,58.5,11000,Diesel,Dealer,Manual,0
+Volvo S90,2023,50,60.5,2500,Petrol,Dealer,Automatic,0
+BMW X3,2022,50,59.2,6500,Diesel,Dealer,Manual,0
+Audi Q5,2021,50,58.8,12000,Petrol,Dealer,Manual,0
+Mercedes GLC,2023,50,60.3,2200,Diesel,Dealer,Automatic,0
+Lexus ES,2022,50,59.5,5800,Petrol,Dealer,Automatic,0
+Jaguar XF,2021,50,58.6,13000,Diesel,Dealer,Manual,0
+Land Rover Discovery Sport,2023,50,60.1,2600,Petrol,Dealer,Automatic,0
+BMW 5 Series,2023,60,72,2000,Diesel,Dealer,Automatic,0
+Audi A7,2022,60,71,5000,Petrol,Dealer,Automatic,0
+Mercedes E-Class,2021,60,70.5,10000,Diesel,Dealer,Manual,0
+Volvo XC60,2023,60,72.5,1800,Petrol,Dealer,Automatic,0
+BMW X4,2022,60,71.2,5200,Diesel,Dealer,Manual,0
+Audi Q7,2021,60,70.8,11000,Petrol,Dealer,Manual,0
+Mercedes GLE,2023,60,72.3,1600,Diesel,Dealer,Automatic,0
+Lexus NX,2022,60,71.5,4800,Petrol,Dealer,Automatic,0
+Jaguar F-Pace,2021,60,70.6,12000,Diesel,Dealer,Manual,0
+Range Rover Evoque,2023,60,72.1,1900,Petrol,Dealer,Automatic,0
+BMW 7 Series,2023,70,84,1500,Diesel,Dealer,Automatic,0
+Audi A8,2022,70,83,4000,Petrol,Dealer,Automatic,0
+Mercedes S-Class,2021,70,82.5,9000,Diesel,Dealer,Manual,0
+Volvo XC90,2023,70,84.5,1300,Petrol,Dealer,Automatic,0
+BMW X5,2022,70,83.2,4200,Diesel,Dealer,Manual,0
+Audi e-tron,2021,70,82.8,9500,Petrol,Dealer,Manual,0
+Mercedes EQE,2023,70,84.3,1200,Diesel,Dealer,Automatic,0
+Lexus RX,2022,70,83.5,3800,Petrol,Dealer,Automatic,0
+Jaguar I-Pace,2021,70,82.6,10000,Diesel,Dealer,Manual,0
+Range Rover Velar,2023,70,84.1,1400,Petrol,Dealer,Automatic,0
+Porsche Macan,2023,80,96,1200,Diesel,Dealer,Automatic,0
+BMW X6,2022,80,95,3500,Petrol,Dealer,Automatic,0
+Audi Q8,2021,80,94.5,8000,Diesel,Dealer,Manual,0
+Mercedes GLE Coupe,2023,80,96.5,1000,Petrol,Dealer,Automatic,0
+Lexus LX,2022,80,95.2,3700,Diesel,Dealer,Manual,0
+Jaguar F-Type,2021,80,94.8,8500,Petrol,Dealer,Manual,0
+Land Rover Defender,2023,80,96.3,900,Diesel,Dealer,Automatic,0
+Maserati Ghibli,2022,80,95.5,3300,Petrol,Dealer,Automatic,0
+Porsche Cayman,2021,80,94.6,9000,Diesel,Dealer,Manual,0
+BMW i7,2023,80,96.1,1100,Petrol,Dealer,Automatic,0
+Porsche Cayenne,2023,90,108,1000,Diesel,Dealer,Automatic,0
+Mercedes GLS,2022,90,107,3000,Petrol,Dealer,Automatic,0
+BMW XM,2021,90,106.5,7000,Diesel,Dealer,Manual,0
+Audi RS5,2023,90,108.5,900,Petrol,Dealer,Automatic,0
+Range Rover Sport,2022,90,107.2,3200,Diesel,Dealer,Manual,0
+Lexus LS,2021,90,106.8,7500,Petrol,Dealer,Manual,0
+Maserati Levante,2023,90,108.3,800,Diesel,Dealer,Automatic,0
+Jaguar XJ,2022,90,107.5,2800,Petrol,Dealer,Automatic,0
+Porsche Taycan,2021,90,106.6,8000,Diesel,Dealer,Manual,0
+Mercedes EQS,2023,90,108.1,950,Petrol,Dealer,Automatic,0
+Range Rover,2023,100,120,800,Diesel,Dealer,Automatic,0
+Mercedes G-Class,2022,100,118,2500,Petrol,Dealer,Automatic,0
+BMW M8,2023,100,121,700,Diesel,Dealer,Automatic,0
+Audi RS7,2022,100,119,2200,Petrol,Dealer,Automatic,0
+Porsche Panamera,2023,100,122,600,Diesel,Dealer,Automatic,0
+Lexus LM,2022,100,118.5,2600,Petrol,Dealer,Automatic,0
+Maserati Quattroporte,2023,100,121.5,650,Diesel,Dealer,Automatic,0
+Jaguar F-Type R,2022,100,119.5,2300,Petrol,Dealer,Automatic,0
+BMW X7,2023,100,122.5,550,Diesel,Dealer,Automatic,0
+Mercedes Maybach S-Class,2022,100,118.8,2700,Petrol,Dealer,Automatic,0
+Lamborghini Huracan,2023,200,240,500,Diesel,Dealer,Automatic,0
+Ferrari Roma,2022,200,235,1800,Petrol,Dealer,Automatic,0
+Aston Martin DB11,2023,200,242,450,Diesel,Dealer,Automatic,0
+Bentley Bentayga,2022,200,238,1600,Petrol,Dealer,Automatic,0
+Rolls-Royce Ghost,2023,200,245,400,Diesel,Dealer,Automatic,0
+McLaren GT,2022,200,236,1900,Petrol,Dealer,Automatic,0
+Porsche 911 Turbo,2023,200,243,420,Diesel,Dealer,Automatic,0
+Lamborghini Urus,2022,200,239,1700,Petrol,Dealer,Automatic,0
+Ferrari Portofino M,2023,200,246,380,Diesel,Dealer,Automatic,0
+Aston Martin Vantage,2022,200,237,2000,Petrol,Dealer,Automatic,0
+Ferrari SF90,2023,300,360,300,Diesel,Dealer,Automatic,0
+Lamborghini Aventador,2022,300,355,1200,Petrol,Dealer,Automatic,0
+Rolls-Royce Phantom,2023,300,362,250,Diesel,Dealer,Automatic,0
+Bentley Flying Spur Mulliner,2022,300,358,1000,Petrol,Dealer,Automatic,0
+McLaren 720S,2023,300,365,200,Diesel,Dealer,Automatic,0
+Porsche 911 GT3 RS,2022,300,356,1300,Petrol,Dealer,Automatic,0
+Aston Martin DBS Superleggera,2023,300,363,220,Diesel,Dealer,Automatic,0
+Ferrari 296 GTB,2022,300,359,1100,Petrol,Dealer,Automatic,0
+Lamborghini Revuelto,2023,300,366,180,Diesel,Dealer,Automatic,0
+Rolls-Royce Cullinan,2022,300,357,1400,Petrol,Dealer,Automatic,0
